@@ -13,8 +13,6 @@ Imagens dos capítulos	100%;
 
 Progresso geral estimado: 98,1%
 
-A história principal e todo o conteúdo jogável estão completamente traduzidos. Alguns elementos gráficos da interface ainda permanecem em espanhol ou inglês, e os créditos não foram traduzidos.
-
 ## ROM base obrigatória
 
 Use uma cópia limpa da versão americana:
