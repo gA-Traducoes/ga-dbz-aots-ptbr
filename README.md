@@ -64,7 +64,7 @@ Este projeto é uma modificação feita por fã e não inclui conteúdo comercia
 
 
 
-##💛 Apoie a gA Traduções
+## 💛 Apoie a gA Traduções
 
 Este projeto é gratuito e continuará disponível para todos.
 
