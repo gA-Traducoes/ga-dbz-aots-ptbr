@@ -1,6 +1,19 @@
 # Dragon Ball Z: Attack of the Saiyans — Tradução PT-BR
 
-Este repositório distribui **somente o patch BPS** da tradução. A ROM comercial não está incluída.
+Estado da Tradução:
+
+História e diálogos	100%
+NPCs e interações	100%
+Objetivos e missões	100%
+Itens e equipamentos	100%
+Habilidades e inimigos	100%
+Menus em texto	100%
+Menus e interface gráfica	85%
+Imagens dos capítulos	100%
+
+Progresso geral estimado: 98,1%
+
+A história principal e todo o conteúdo jogável estão completamente traduzidos. Alguns elementos gráficos da interface ainda permanecem em espanhol ou inglês, e os créditos não foram traduzidos.
 
 ## ROM base obrigatória
 
