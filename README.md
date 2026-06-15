@@ -61,3 +61,19 @@ A ROM final correta deve possuir:
 ## Aviso
 
 Este projeto é uma modificação feita por fã e não inclui conteúdo comercial. Você deve fornecer legalmente sua própria ROM base.
+
+
+
+##💛 Apoie a gA Traduções
+
+Este projeto é gratuito e continuará disponível para todos.
+
+Caso queira apoiar voluntariamente o tempo dedicado à tradução, revisão, testes e manutenção dos projetos:
+
+<p align="center">
+  <a href="https://apoia.se/gatraducoes">
+    <strong>☕ Apoiar a gA Traduções no APOIA.se</strong>
+  </a>
+</p>Todo apoio ajuda na continuidade de novas traduções e melhorias.
+
+«O apoio é voluntário e não representa a venda do jogo, da ROM ou de qualquer conteúdo protegido.»
