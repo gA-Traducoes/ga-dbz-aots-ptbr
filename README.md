@@ -27,23 +27,17 @@ Use uma cópia limpa da versão americana:
 
 O patch não deve ser aplicado sobre uma ROM já traduzida, modificada, aparada ou expandida.
 
-## Como aplicar no Android
+## Como Aplicar o Patch
 
-1. Instale um aplicador compatível com BPS, como **UniPatcher**.
-2. Em **Patch file**, selecione `DBZ_Attack_of_the_Saiyans_PTBR.bps`.
-3. Em **ROM file**, selecione a ROM base limpa indicada acima.
-4. Escolha um nome para o arquivo de saída, por exemplo `DBZ_AOTS_PTBR.nds`.
-5. Toque em aplicar e aguarde a conclusão.
-6. Abra a ROM gerada em um emulador de Nintendo DS.
+1. Acesse o "Rom Patcher JS" (https://www.marcrobledo.com/RomPatcher.js/).
+2. Em ROM file, selecione a ROM original ".nds".
+3. Em Patch file, selecione o arquivo ".bps".
+4. Clique em Apply patch.
+5. Abra a nova ROM gerada no seu emulador.
 
-## Como aplicar no computador
+Funciona no celular e no computador.
 
-Use um aplicador compatível com BPS, como Floating IPS (Flips):
-
-1. Escolha **Apply Patch**.
-2. Selecione `DBZ_Attack_of_the_Saiyans_PTBR.bps`.
-3. Selecione a ROM base limpa.
-4. Salve a ROM resultante com outro nome.
+«Use a ROM original americana compatível. O projeto não inclui a ROM.»
 
 ## Verificação do resultado
 
