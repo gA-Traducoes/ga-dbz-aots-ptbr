@@ -11,7 +11,9 @@ Menus em texto	100%,
 Menus e interface gráfica	85%,
 Imagens dos capítulos	100%;
 
-Progresso geral estimado: 98,1%
+Bug: Menu de status/itens/habilidades possui um pequeno erro de sprites!
+Progresso geral estimado: 98,1%!
+
 
 ## ROM base obrigatória
 
