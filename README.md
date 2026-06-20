@@ -2,13 +2,20 @@
 
 Estado da Tradução:
 
-História e diálogos	100%,
-NPCs e interações	100%,
-Objetivos e missões	100%,
+História e diálogos	 100%,
+
+NPCs e interações	 100%,
+
+Objetivos e missões 	100%,
+
 Itens e equipamentos	100%,
+
 Habilidades e inimigos	100%,
+
 Menus em texto	100%,
+
 Menus e interface gráfica	85%,
+
 Imagens dos capítulos	100%;
 
 Bugs: Menu de status/itens/habilidades possui um pequeno erro de sprites!
