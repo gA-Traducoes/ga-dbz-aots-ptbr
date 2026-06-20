@@ -1,6 +1,6 @@
 # Dragon Ball Z: Attack of the Saiyans — Tradução PT-BR
 
-Estado da Tradução:
+## Estado da Tradução:
 
 História e diálogos	 100%,
 
@@ -20,7 +20,8 @@ Imagens dos capítulos	100%;
 
 Bugs: Menu de status/itens/habilidades possui um pequeno erro de sprites!
 
-Progresso geral estimado: 98,1%!
+
+### Progresso geral estimado: 98,1%!
 
 
 ## ROM base obrigatória
