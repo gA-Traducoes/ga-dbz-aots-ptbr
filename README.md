@@ -1,6 +1,6 @@
 # Dragon Ball Z: Attack of the Saiyans — Tradução PT-BR
 
-## Estado da Tradução:
+## Estado da Tradução
 
 História e diálogos	 100%,
 
